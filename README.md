@@ -2,7 +2,7 @@
 
 ![Logo](https://www.example.com/logo.png)
 
-This repository contains the code for a warehouse movie site, currently hosted at [mahlwf.tk](http://mahlwf.tk).
+This repository contains the code for a warehouse movie site, currently hosted at [makhlwf.tk](http://makhlwf.tk).
 
 ## Contributing
 
@@ -54,8 +54,8 @@ We welcome contributions from anyone who wants to improve the site, add features
 
 We would like to express our gratitude to the following contributors who have made this project possible:
 
-- [John Doe](https://github.com/johndoe)
-- [Jane Smith](https://github.com/janesmith)
+- [makhlwf](https://github.com/makhlwf)
+
 
 If you contribute to the site, your name will be added to this list.
 
